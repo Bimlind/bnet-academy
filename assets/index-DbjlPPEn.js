@@ -1077,7 +1077,7 @@ Error generating stack: `+a.message+`
     }
 
     .scroller[data-speed='slow'] {
-        --_animation-duration: 190s;
+        --_animation-duration: 80s;
     }
 
     @keyframes scroll {
